@@ -26,13 +26,13 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "output and"
-  uo[1]: "output xor"
-  uo[2]: "output and"
-  uo[3]: "output xor"
-  uo[4]: "output xor"
+  uo[0]: "segment 1"
+  uo[1]: "segment 2"
+  uo[2]: "segment 3"
+  uo[3]: "segment 4"
+  uo[4]: ""
   uo[5]: ""
-  uo[6]: ""
+  uo[6]: "segment 6"
   uo[7]: ""
 
   # Bidirectional pins
