@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple Adder. Only works for number 3. Displays all possible sums of the number 3
 
 ## How to test
 
-Explain how to use your project
+Use Input 1, 2 and 3 for all possible summations of 3
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 Segment display
